@@ -24,7 +24,7 @@
 - [📊 IFRS 16 Lease Calculator](https://github.com/PolyakovMA/ifrs16-lease-calculator) — Автоматизация расчётов по МСФО 16  
 - [🤖 Sentiment Analysis Transformer](https://github.com/PolyakovMA/sentiment-transformer) — Кастомный трансформер для sklearn  
 - [❤️ Heart Disease Prediction](https://github.com/PolyakovMA/heart-disease-ml) — Предсказание заболеваний сердца  
-- [Pokemon GAN](https://github.com/PolyakovMA/pokemon-GAN) — Нейросеть, способная генереровать изображения покемонов
+- [🟡 Pokemon GAN](https://github.com/PolyakovMA/pokemon-GAN) — Нейросеть, способная генереровать изображения покемонов
 
 ---
 
