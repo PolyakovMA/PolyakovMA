@@ -16,7 +16,7 @@
 - **Языки:** Python, SQL  
 - **Библиотеки:** pandas, numpy, matplotlib, seaborn, scikit-learn, PyTorch  
 - **Инструменты:** Jupyter Notebook, Git 
-- **Методы:** EDA, Feature Engineering, Model Evaluation, Clustering, NLP
+- **Методы:** EDA, Feature Engineering, Model Evaluation, Clustering
 
 ---
 
